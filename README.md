@@ -1,6 +1,6 @@
 # Lead-Scoring-Study
 
-# Description
+### Description
 The Lead Scoring Study project is a comprehensive analysis of lead scoring techniques and their implementation for optimizing sales and marketing efforts. Lead scoring is crucial for identifying and prioritizing potential customers who are most likely to convert into paying clients. This project explores various methods and strategies for lead scoring using real-world data, aiming to provide insights into effective lead management.
 
 # Goals
